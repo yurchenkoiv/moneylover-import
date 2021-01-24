@@ -1,0 +1,18 @@
+filePath: transactions_export_2021-01-24_wallet.csv
+withHeaders: true
+dateFormat: "%Y-%m-%dT%H:%M:%S%z" #https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes
+delimiter: ","
+csvHeader:
+  date: 0
+  type: 2
+  category: 3
+  amount: 4
+  notes: 6
+categories:
+  Clothing: 2C26A0C19F2F443576563C5B3DAC2CCB
+  Groceries: 2C26A0C19F2F443576563C5B3DAC2CCB
+  Bills & Fees: 2C26A0C19F2F443576563C5B3DAC2CCB
+  Food & Drink: 2C26A0C19F2F443576563C5B3DAC2CCB
+  Home: 2C26A0C19F2F443576563C5B3DAC2CCB
+ignoredCategories:
+  - Transfer

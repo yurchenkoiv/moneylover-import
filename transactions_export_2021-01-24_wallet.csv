@@ -1,0 +1,3 @@
+Date,Wallet,Type,"Category name",Amount,Currency,Note,Labels,Author
+2021-01-23T14:19:12+00:00,Wallet,Expense,"Food & Drink",-4.44000000,EUR,testing,robie,""
+2021-01-23T14:19:12+00:00,Wallet,Expense,"Food & Drink",-4.44000000,EUR,testing2,robie,""
