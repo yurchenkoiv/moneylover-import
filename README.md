@@ -7,7 +7,7 @@
 ##Usage
 ### Clone repository and cd to cloned folder:
 ````commandline
-git clone && cd 
+git clone https://github.com/yurchenkoiv/moneylover-import.git && cd moneylover-import
 ````
 ### Install requirements with:
 ````commandline
